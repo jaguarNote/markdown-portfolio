@@ -2,5 +2,5 @@
 layout: default
 ---
 
-# Jaguar Note
+# <h1>Jaguar Note
 
